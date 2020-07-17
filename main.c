@@ -30,14 +30,11 @@ int main()
 */
 
 
-
-
-
 /*
 	Докажите,что произведение двух последовательных
 	четных чисел делиться на 4 
 */
-
+/*
 #include <stdio.h>
 
 int main()
@@ -51,6 +48,7 @@ int main()
 		if(!(k%2))	// чет
 		{
 			chet=(2*k)/4;
+
 			printf("chet = (2*k):4\n");
 			printf("answer = %d\n", chet);
 		}
@@ -66,3 +64,4 @@ int main()
 
 	return 0;
 }
+*/
